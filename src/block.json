@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "askonth/billboard-slider",
+	"version": "1.0.0",
+	"title": "Billboard Slider",
+	"category": "widgets",
+	"icon": "slides",
+	"description": "A billboard-style slider block.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "billboard-slider",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}
